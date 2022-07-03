@@ -1,0 +1,82 @@
+.noSelect {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  .noSelect:focus {
+    outline: none !important;
+  }
+
+.boxes {
+	display: grid;
+    grid-gap: 25px;
+    grid-template-columns: repeat(3, 90px);
+    grid-template-rows: repeat(3, 90px);
+    justify-content: center;
+    text-align: center;
+}
+
+p {
+    font-family: 'Finger Paint';
+    font-size: 48px;
+    color: #0026ED;
+    margin: 0;
+    padding-bottom: 25px;
+}
+
+.normal {
+    width: 80px;
+	height: 80px;
+	background: #FFFFFF;
+    border: 10px solid #000000;
+    border-radius: 15px;
+}
+
+.normal:hover {
+	background-color: rgb(202, 200, 200);
+}
+
+.xli {
+	font-family: 'Finger Paint';
+    color: red;
+    font-size: 56px;    
+}
+
+.xli:hover {
+    color: white;
+    background-color: red;
+}
+
+.winnerx {
+	border: 10px solid #FF0505;
+}
+
+.olu {
+    font-family: 'Finger Paint';
+    color: blue;
+    font-size: 56px;
+}
+
+.olu:hover {
+    color: white;
+    background-color: blue;
+}
+
+.winnero {
+	border: 10px solid #0026ED;
+}
+
+.gametxt {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+
+}
+
+.container {
+    margin-top: 100px;
+}
