@@ -8,7 +8,6 @@ import { useNavigate } from 'react-router-dom';
 function Game() {
   const [w, h] = useSizing();
   const [size, setSize] = useState({ width: 0, height: 0 });
-  const [sira, setSira] = useState(0);
   const navigate = useNavigate();
 
   //Context
