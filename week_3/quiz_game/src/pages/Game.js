@@ -29,7 +29,7 @@ function Game() {
     setAllQuestion();
   }, []);
 
-  //Display settings
+  //Display settings!
   useEffect(() => {
     const ratio = 1.7;
 
