@@ -1,7 +1,8 @@
 # Advanced XoX Game
 ## Week 4 Assignment of the Bootcamp
 
-<strong><span style="color:blue; font-size:25px;">Click to reach our team's repository</span></strong>
+<strong><span style="color:blue; font-size:25px;">Click to reach our team's repository:</span></strong>
+<br>
 [<img src="https://repository-images.githubusercontent.com/289382429/e9c6ec80-8902-11eb-9f55-5de819da8bf5" width="100" height="50"/>](https://github.com/serifselim/neo-xox)
 
 
